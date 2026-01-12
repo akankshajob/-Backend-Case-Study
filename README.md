@@ -18,7 +18,4 @@ All work is documented and implemented in **`Casestudy.py`** using Python and Fl
 ## Focus Areas
 
 Backend best practices data consistency, scalability, and business-driven decision making.
-
-## Author
-
-Akanksha Job
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
